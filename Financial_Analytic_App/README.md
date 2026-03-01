@@ -1,8 +1,5 @@
 # Financial Risk Analysis App
 
-**Autor:** Michał Szymik  
-**Grupa:** GC03  
-
 Aplikacja służy do analizy ryzyka finansowego wybranych instrumentów finansowych. Umożliwia wczytywanie danych cenowych, obliczanie stóp zwrotu, wizualizację danych, obliczanie historycznego Value at Risk (VaR) oraz symulacje Monte Carlo.
 
 ---
@@ -124,3 +121,4 @@ git clone <URL_REPOZYTORIUM>
 cd <KATALOG_PROJEKTU>
 
 streamlit run app.py
+
