@@ -1,5 +1,8 @@
 # Financial Risk Analysis App
 
+## !!!WAŻNE!!!
+# Jest to stara wersja aplikacji! W związku ze zmianą funkcjonalności portalu stooq, polegającej na ograniczeniu możliwości scrapowania, aplikacja nie pokazuje oczekiwanych wyników, wskazując na błąd danych.
+
 Aplikacja służy do analizy ryzyka finansowego wybranych instrumentów finansowych. Umożliwia wczytywanie danych cenowych, obliczanie stóp zwrotu, wizualizację danych, obliczanie historycznego Value at Risk (VaR) oraz symulacje Monte Carlo.
 
 ---
